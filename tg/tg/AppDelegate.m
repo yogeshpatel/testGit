@@ -24,6 +24,7 @@
 	[_navigationController release];
 	[_splitViewController release];
     [super dealloc];
+		//ok
 }
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
